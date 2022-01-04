@@ -1,0 +1,21 @@
+{
+  "name": "GREEN_SECURITY",
+  "version": "1.0.0",
+  "description": "GREEN_SECURITY_BOT",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GREEN_SECURITY_BOT"
+  ],
+  "author": "ELija_Most_Aльфа",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.2",
+    "request": "^2.88.2"
+  }
+}
